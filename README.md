@@ -1,1 +1,2 @@
-# Project in Python
+# Python Mini Project
+
